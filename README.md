@@ -1,6 +1,3 @@
-
-# Privacy Policy of SaloApp
-
 SaloApp ("we," "our," or "us") built SaloApp as a free app. This SERVICE is provided by SaloApp at no cost and is intended for use as is.
 
 This page informs visitors regarding our policies with the collection, use, and disclosure of Personal Information for anyone who decides to use our Service.
